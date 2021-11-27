@@ -1,0 +1,15 @@
+.login-ground{
+    background-image: url('../files/login1.jpg');
+    background-position:cover;
+    height: 100vh;
+}
+.margin-zero{
+    margin-left: 0;
+    margin-right: 0;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
